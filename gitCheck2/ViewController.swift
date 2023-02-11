@@ -13,6 +13,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    
+    
+    func doSomething() {
+        print("뭔가를 할 거야~~~")
+    }
 
 
 }
