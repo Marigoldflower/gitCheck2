@@ -18,6 +18,10 @@ class ViewController: UIViewController {
     func doSomething() {
         print("뭔가를 할 거야~~~")
     }
+    
+    func doSomethingAnother() {
+        print("뭐 체크하기 위해 만들었음!")
+    }
 
 
 }
