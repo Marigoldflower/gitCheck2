@@ -22,6 +22,12 @@ class ViewController: UIViewController {
     func doSomethingAnother() {
         print("뭐 체크하기 위해 만들었음!")
     }
+    
+    
+    
+    func eatCake() {
+        print("케이크를 먹고 있는 중입니다.")
+    }
 
 
 }
