@@ -28,6 +28,11 @@ class ViewController: UIViewController {
     func eatCake() {
         print("케이크를 먹고 있는 중입니다.")
     }
+    
+    
+    func typeSomeCode() {
+        print("코드를 몇 자 쳐보자~~")
+    }
 
 
 }
